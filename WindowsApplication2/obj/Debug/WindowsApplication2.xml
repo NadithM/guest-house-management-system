@@ -22,5 +22,15 @@ WindowsApplication2
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:WindowsApplication2.My.Resources.Resources.blue_and_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.Photo_Background_Application4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
